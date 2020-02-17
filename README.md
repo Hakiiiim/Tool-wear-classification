@@ -191,7 +191,7 @@ accuracy*100);
 10 fprintf('\n******\nFScore = %1.4f (classification)\n', FScore);
 ```
 
-<img src="figures/3.jpg" 
+<img src="figures/3.png" 
   alt="3"/>
   
 
@@ -254,7 +254,7 @@ Here is a function that calculates the ROC curve for a given validation set :
 ```
 Let’s try it on our test Data :
 
-<img src="figures/4.jpg" 
+<img src="figures/4.png" 
   alt="4"/>
 
 The curve we got is more than sufficient to tell that our classifier is robust,
