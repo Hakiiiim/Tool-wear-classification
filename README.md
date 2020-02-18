@@ -2,7 +2,8 @@
 In this project we are going to work on the classification method of Logistic Regression. We are going to : 1. Describe a set of images by means of a set region descriptors. 2. Using the computed descriptors, we are going to simulate a classification experiment and calculate some performance metrics from the results of the Logistic Regression classifier.
 
 The main file is : main_TP_LogisticReg.m
-Files used to code the Logistic Regression classifier from scratch (fTrainLogisticReg, funsigmoid, fCalculateCostLogReg, fClassify_LogisticReg.m, fGetShapeFeat.m) were coded by Pr. Víctor González Castro from the Universidad de Leon (Spain), and then completed by me.
+
+The files used to code the Logistic Regression classifier from scratch (fTrainLogisticReg, funsigmoid, fCalculateCostLogReg, fClassify_LogisticReg.m, fGetShapeFeat.m) were coded by Pr. Víctor González Castro from the Universidad de Leon (Spain), and then completed by me.
 
 
 # TB3 : Image and Pattern recognition 2019-
