@@ -1,6 +1,8 @@
 # Tool-wear-classification
 In this project we are going to work on the classification method of Logistic Regression. We are going to : 1. Describe a set of images by means of a set region descriptors. 2. Using the computed descriptors, we are going to simulate a classification experiment and calculate some performance metrics from the results of the Logistic Regression classifier.
 
+Language used : MATLAB
+
 The main file is : main_TP_LogisticReg.m
 
 The files used to code the Logistic Regression classifier from scratch (fTrainLogisticReg, funsigmoid, fCalculateCostLogReg, fClassify_LogisticReg.m, fGetShapeFeat.m) were coded by Pr. Víctor González Castro from the Universidad de Leon (Spain), and then completed by me.
@@ -82,7 +84,7 @@ therefore, assess how good the classifier is.
 3.1.1 Training
 
 The goal of the training of the Logistic Regression classifier is to estimate
-the parameters Θ = [θ 0 ,θ 1 ,...,θn] used to estimate the probability that a certain
+the parameters <bold> Θ = [θ 0 ,θ 1 ,...,θn] </bold> used to estimate the probability that a certain
 pattern belongs to the positive class Xi= [xi 0 ,xi 1 ,...,xin]
 
 
