@@ -437,33 +437,26 @@ four hidden layers.
 ## Références
 
 [1] RahulAgarwal.The 5 Classification Evaluation metrics every Data Scien-
-tist must know.url: https : / / towardsdatascience. com / the - 5 -
-classification-evaluation-metrics-you-must-know-aa97784ff226.
+tist must know.url: https://towardsdatascience.com/the-5-classification-evaluation-metrics-you-must-know-aa97784ff226.
 
 [2] KaranBhanot.Machine Learning Classifier evaluation using ROC and
-CAP Curves.url:https://towardsdatascience.com/machine-learning-
-classifier-evaluation-using-roc-and-cap-curves-7db60fe6b716.
+CAP Curves.url: https://towardsdatascience.com/machine-learning-classifier-evaluation-using-roc-and-cap-curves-7db60fe6b716.
 
 [3] Víctor González-Castro Rocío Alaiz-RodríguezMaría Teresa García-
 OrdásEnrique Alegre-Gutiérrez. “Combining shape and contour features
 to improve tool wear monitoring in milling processes”. In :International
 Journal of Production Research Volume 56 (2017), p. 3901-3913.doi:
-https://www.tandfonline.com/doi/full/10.1080/00207543.2018.
-1435919.
+https://www.tandfonline.com/doi/full/10.1080/00207543.2018.1435919.
 
 [4] ChrisNicholson.A Beginner’s Guide to Neural Networks and Deep Lear-
-ning.url:https://pathmind.com/wiki/neural-network.
+ning.url: https://pathmind.com/wiki/neural-network.
 
-[5] Unknown.Classify Patterns with a Shallow Neural Network.url:https:
-//fr.mathworks.com/help/deeplearning/gs/classify- patterns-
-with-a-neural-network.html.
+[5] Unknown.Classify Patterns with a Shallow Neural Network.url:
+https://fr.mathworks.com/help/deeplearning/gs/classify-patterns-with-a-neural-network.html.
 
-[6] Unknown.Fit Data with a Shallow Neural Network.url:https://fr.
-mathworks.com/help/deeplearning/gs/fit-data-with-a-neural-
-network.html.
+[6] Unknown.Fit Data with a Shallow Neural Network.url: https://fr.mathworks.com/help/deeplearning/gs/fit-data-with-a-neural-network.html.
 
-[7] Unknown.fitcsvm.url:https://fr.mathworks.com/help/stats/
-fitcsvm.html.
+[7] Unknown.fitcsvm.url: https://fr.mathworks.com/help/stats/fitcsvm.html.
 
 
 
